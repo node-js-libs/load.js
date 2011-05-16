@@ -1,0 +1,1 @@
+var helpers_sample = 'sample.js executed'
