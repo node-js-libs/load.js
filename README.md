@@ -30,6 +30,10 @@ Load a script after a 0.5s delay
    
 **For more examples of the available methods, see the [chain.js](https://github.com/chriso/chain.js) page**
 
+### Contributors
+
+- [Susmitha Girumala](https://github.com/gsusmi) - added the initial Jasmine tests
+
 ### License
 
 (MIT License)
