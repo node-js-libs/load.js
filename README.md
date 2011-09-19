@@ -1,4 +1,4 @@
-**load.js is a micro JS lazy-loader** - *870 bytes gzipped*
+**load.js is a micro JS lazy-loader**
 
 Built on top of [chain.js](https://github.com/chriso/chain.js), it allows you to lazy load your JS scripts sequentially or in parallel and handle complex dependency chains.
 
